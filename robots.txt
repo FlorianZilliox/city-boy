@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://florianzilliox.github.io/city-boy/sitemap.xml
